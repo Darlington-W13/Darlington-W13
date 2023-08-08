@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darlington
 - 👀 I’m interested in anything Data Science - (Data Analysis, Machine Learning, Data Engineering)
-- 🌱 I’m currently undergoing the Data Scientist Track with Python on Datacamp platform with sponsorship from 14G Scholarship.
+- 🌱 Completed Datacamp's Data Scientist career track with Python
 - 💞️ I’m looking to collaborate on Pet-projects implementing various data science / data engineering methodologies
 - 📫 How to reach me @darlingtonwanogho@gmail.com
 
